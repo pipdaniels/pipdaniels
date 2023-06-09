@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pipdaniels
+- 👋 Hi, I’m @Seunyusuf
 - 👀 I’m interested in Technical Product Management
 - 🌱 I’m currently learning Django for backend Web App Developement
 - 💞️ I’m looking to collaborate on very early stage Startup projects from ideating to building prototypes and MVP
